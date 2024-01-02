@@ -1,2 +1,2 @@
 # 100-Days-of-Python
-Coding Python on 100 Days Challenge from Beginner to Advance 
+This will involve a Daily activities of coding with python from beginer level challenge to advance python coding in Deep Learning and AI
